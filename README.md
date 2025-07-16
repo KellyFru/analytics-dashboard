@@ -44,4 +44,4 @@ It shows how a small marketing team can combine ad performance data from multipl
 
 ## Live Demo
 
-👉 [View the Live Dashboard on Streamlit Cloud]()
+👉 [View the Live Dashboard on Streamlit Cloud](https://analytics-dashboard-jejebmd854uqjc7kpcnpd2.streamlit.app)
