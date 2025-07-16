@@ -1,0 +1,7 @@
+campaign_id,platform,campaign_name,date,impressions,clicks,spend,conversions
+1,Google,Spring Promo,2025-07-01,2000,150,100,10
+2,Meta,Spring Promo,2025-07-01,3000,200,120,12
+3,LinkedIn,B2B Outreach,2025-07-01,1000,80,90,5
+1,Google,Spring Promo,2025-07-02,2500,180,110,11
+2,Meta,Spring Promo,2025-07-02,3200,220,125,14
+3,LinkedIn,B2B Outreach,2025-07-02,1200,100,95,7
