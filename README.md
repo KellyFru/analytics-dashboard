@@ -1,8 +1,6 @@
-# 📊 Campaign Performance Dashboard
-
 ![Dashboard Screenshot](screenshots/dashboard_overview.png)
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is a demo **Campaign Performance Dashboard** for client wanting to analyse their Promos!  
 It shows how a small marketing team can combine ad performance data from multiple channels into one clear, interactive report.
@@ -12,7 +10,7 @@ It shows how a small marketing team can combine ad performance data from multipl
 
 ---
 
-## 🎯 What Does It Do?
+## What Does It Do?
 
 - **Pulls & transforms campaign data:** Loads dummy ad campaign data from CSV, then calculates key performance metrics:
   - CTR (Click-Through Rate)
@@ -27,7 +25,7 @@ It shows how a small marketing team can combine ad performance data from multipl
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 | CTR & Spend                                        | Campaign Performance                                        |
 | -------------------------------------------------- | ----------------------------------------------------------- |
@@ -35,15 +33,15 @@ It shows how a small marketing team can combine ad performance data from multipl
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **pandas** — data cleaning & transformations
 - **Streamlit** — app framework & deployment
-- **Plotly** — beautiful interactive charts
+- **Plotly** — interactive charts
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 👉 [View the Live Dashboard on Streamlit Cloud]()
