@@ -1,7 +1,11 @@
 campaign_id,platform,campaign_name,date,impressions,clicks,spend,conversions
 1,Google,Spring Promo,2025-07-01,2000,150,100,10
-2,Meta,Spring Promo,2025-07-01,3000,200,120,12
-3,LinkedIn,B2B Outreach,2025-07-01,1000,80,90,5
-1,Google,Spring Promo,2025-07-02,2500,180,110,11
-2,Meta,Spring Promo,2025-07-02,3200,220,125,14
-3,LinkedIn,B2B Outreach,2025-07-02,1200,100,95,7
+2,Meta,Summer Flash Sale,2025-07-01,3000,200,150,15
+3,LinkedIn,B2B Outreach,2025-07-01,1000,80,120,8
+4,TikTok,Holiday Awareness,2025-07-01,5000,350,200,25
+5,X Ads,New Year Launch,2025-07-01,4000,300,180,20
+1,Google,Spring Promo,2025-07-02,2200,160,110,12
+2,Meta,Summer Flash Sale,2025-07-02,3500,250,160,18
+3,LinkedIn,B2B Outreach,2025-07-02,1100,90,130,10
+4,TikTok,Holiday Awareness,2025-07-02,5200,380,210,28
+5,X Ads,New Year Launch,2025-07-02,4300,320,190,22
